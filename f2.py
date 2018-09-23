@@ -1,2 +1,3 @@
 def f2(x,y):
-	return(x,y*x)
+	r = x**2
+	return(,r,x,y*x)
